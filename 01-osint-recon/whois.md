@@ -13,6 +13,14 @@ WHOIS data provides insight into:
 
 ---
 
+## Screenshots
+
+<img width="370" height="163" alt="image" src="https://github.com/user-attachments/assets/bafa631a-7511-42e2-aaac-8e38685837bd" />
+
+<img width="395" height="123" alt="image" src="https://github.com/user-attachments/assets/35642b79-d831-466f-b54c-36c67f3f5a1d" />
+
+---
+
 ## 🔍 Domain Information
 
 | Attribute     | Value             | Analysis                                              |
